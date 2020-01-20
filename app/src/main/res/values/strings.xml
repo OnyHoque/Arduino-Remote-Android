@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Arduino BL remote</string>
+
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="BUTTON_1">APP_BUTTON_1</string>
+    <string name="BUTTON_2">APP_BUTTON_2</string>
+    <string name="BUTTON_3">APP_BUTTON_3</string>
+    <string name="BUTTON_4">APP_BUTTON_4</string>
+    <string name="BUTTON_5">APP_BUTTON_5</string>
+    <string name="BUTTON_6">APP_BUTTON_6</string>
+    <string name="BUTTON_7">APP_BUTTON_7</string>
+    <string name="BUTTON_8">APP_BUTTON_8</string>
+
+    <string name="BUTTON_1_Name">APP_BUTTON_1_name</string>
+    <string name="BUTTON_2_Name">APP_BUTTON_2_name</string>
+    <string name="BUTTON_3_Name">APP_BUTTON_3_name</string>
+    <string name="BUTTON_4_Name">APP_BUTTON_4_name</string>
+    <string name="BUTTON_5_Name">APP_BUTTON_5_name</string>
+    <string name="BUTTON_6_Name">APP_BUTTON_6_name</string>
+    <string name="BUTTON_7_Name">APP_BUTTON_7_name</string>
+    <string name="BUTTON_8_Name">APP_BUTTON_8_name</string>
+
+</resources>
